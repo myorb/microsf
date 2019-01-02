@@ -1,0 +1,1 @@
+a:3:{i:0;C:46:"Symfony\Component\Config\Resource\FileResource":29:{s:21:"/app/public/index.php";}i:1;C:46:"Symfony\Component\Config\Resource\FileResource":50:{s:42:"/app/vendor/symfony/http-kernel/Kernel.php";}i:2;C:72:"Symfony\Component\DependencyInjection\Config\ContainerParametersResource":6:{a:0:{}}}
